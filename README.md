@@ -1,17 +1,17 @@
-1)Open the visual studio code.
+Open the visual studio code.
 
-2)Goto file-open folder.
+Goto file then open folder.
 
-3)Select the required folder.
+Select the  folder.
 
-4)Press ctrl+ ~ .
+Press ctrl+ ~ .
 
-5)Write git clone in bash,then npm install.
+Write git clone in bash,then npm install.
 
-6)Then write the logic.
+Then write the logic for the project
 
-7)To build project, write npm start.Then goto localhost.
+To build project, write npm start.Then goto localhost.
 
-8)Now you can use chatbot.
+Now you can use chatbot.
 
 
